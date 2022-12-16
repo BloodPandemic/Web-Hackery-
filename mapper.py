@@ -5,6 +5,7 @@ TARGET = "http://boodelyboo.com/"
 
 THREADS = 10
 
+
 answers = queue.Queue()
 web_paths = queue.Queue()
 
